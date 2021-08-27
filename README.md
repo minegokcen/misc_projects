@@ -1,3 +1,3 @@
 # misc_projects
 
-Various computational projects including final projects of some classes.
+Various computational projects including final projects of some courses.
